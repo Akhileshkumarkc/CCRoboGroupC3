@@ -1,0 +1,67 @@
+
+Password for all below users:- cloud
+
+I have also created mysql service, to access it:-mysql -h 10.244.0.143 -u 5ryvs9z2xq0aojmn -P 32768 -p
+                                    Password: z4o8fpvpv2sdfl75                
+
+
+
+
+
+California
+-Host: leo
+
+team1: 
+Leader: bob 
+Builder: john - r1s1o1, r2s1o1
+Player: rob
+
+team2:
+Leader: jack 
+Builder: jill,june - r3s2o1, r4s2o1
+Player: roy
+
+--------------------------------------------------------------------------------------------
+
+Florida
+-Host: gemini
+
+
+team1:
+Leader: may - r2s1o2
+Builder: max - r1s1o2
+Player: july,august
+
+
+team2:
+Leader: snow
+Builder: summer - r2s2o2
+Player: joy
+
+
+
+--------------------------------------------------------------------------------------------
+Texas
+-Host: jupiter
+
+team1: 
+Leader: Mars
+Builder: Moon
+Player: Pluto
+
+
+uaac client update --name testlogin --scope openid,cloud_controller.read --authorized_grant_types 'authorization_code,client_credentials' --access_token_validity 1209600 --authorities oauth.login --redirect_uri 'http://robocode.bosh-lite.com/UAARedirectServlet'
+
+
+
+
+
+
+
+
+
+http://localhost:8080/RobocodeV1/NewRobot.jsp
+
+
+
+

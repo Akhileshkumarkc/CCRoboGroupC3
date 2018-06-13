@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/myApp" docBase="myApp"
+   crossContext="true" reloadable="true" debug="1">
+
+<Resource name="jdbc/robocode" auth="Container"
+          type="javax.sql.DataSource" driverClassName="com.mysql.jdbc.Driver"
+          url="jdbc:mysql://10.244.0.143:32768/robocode"
+          username="5ryvs9z2xq0aojmn" password="z4o8fpvpv2sdfl75" maxActive="20" maxIdle="10" maxWait="-1"/>
+</Context>

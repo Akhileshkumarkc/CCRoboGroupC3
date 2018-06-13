@@ -1,0 +1,5 @@
+---
+applications:
+- name: robocode
+  memory: 2048M
+  instances: 1
